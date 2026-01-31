@@ -24,7 +24,7 @@ void main(void) {
     while (1) {
         i = number/10;
         j = number%10;
-        //1. turn on the d1 and turn off the d2
+        //1. turn on tbnhe d1 and turn off the d2
         PORTCbits.RC0 = segment_on;
         PORTCbits.RC1 = segment_off;
         //2. Print req data in d1
