@@ -10,3 +10,7 @@
 /16x2/16x2_lcd.X/dist/
 /keypad_4x3/4x3_keypad.X/build/
 /keypad_4x3/4x3_keypad.X/dist/
+/interrupt/interrupt_programming.X/build/
+/interrupt/interrupt_programming.X/dist/
+/interrupt/tmr_ov_intr.X/build/
+/interrupt/tmr_ov_intr.X/dist/
