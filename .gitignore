@@ -4,3 +4,9 @@
 /7_seg/7_seg.X/dist/
 /7_seg/mux_7seg.X/build/
 /7_seg/mux_7seg.X/dist/
+/pushbutton/push_button.X/dist/
+/pushbutton/push_button.X/build/
+/16x2/16x2_lcd.X/build/
+/16x2/16x2_lcd.X/dist/
+/keypad_4x3/4x3_keypad.X/build/
+/keypad_4x3/4x3_keypad.X/dist/
