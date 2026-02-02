@@ -14,3 +14,5 @@
 /interrupt/interrupt_programming.X/dist/
 /interrupt/tmr_ov_intr.X/build/
 /interrupt/tmr_ov_intr.X/dist/
+/interrupt/mux_7seg_int.X/build/
+/interrupt/mux_7seg_int.X/dist/
