@@ -22,3 +22,5 @@
 /adc_sensors/adc_vr.X/dist/
 /pwm/pwm_generation.X/build/
 /pwm/pwm_generation.X/dist/
+/eeprom/eeprom_prg.X/build/
+/eeprom/eeprom_prg.X/dist/
