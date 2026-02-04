@@ -16,3 +16,9 @@
 /interrupt/tmr_ov_intr.X/dist/
 /interrupt/mux_7seg_int.X/build/
 /interrupt/mux_7seg_int.X/dist/
+/adc_sensors/adc_sensors_lm35.X/build/
+/adc_sensors/adc_sensors_lm35.X/dist/
+/adc_sensors/adc_vr.X/build/
+/adc_sensors/adc_vr.X/dist/
+/pwm/pwm_generation.X/build/
+/pwm/pwm_generation.X/dist/

@@ -49,7 +49,7 @@ void lcd_string(const char *str, unsigned char num)
     unsigned char i;
     for(i=0;i<num;i++){
         lcd_data(str[i]);
-    }
+    } 
 }
 
 void lcd_init()
